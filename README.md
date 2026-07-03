@@ -1,0 +1,1 @@
+A very simple calculator made by PyQt framework.
